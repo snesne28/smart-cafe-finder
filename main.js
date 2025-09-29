@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyCaTObNVGgSp8mjePqiSAtyT67dxK-cOZg"; 
+const apiKey = "API KEY"; 
     const useProxy = true;
     const proxy = "https://cors-anywhere.herokuapp.com/";
 
@@ -122,3 +122,4 @@ const apiKey = "AIzaSyCaTObNVGgSp8mjePqiSAtyT67dxK-cOZg";
         container.appendChild(card);
       });
     }
+
